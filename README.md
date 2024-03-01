@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamshome&label=Profile%20views&color=0e75b6&style=flat-square" alt="subhamshome" /> </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=subhamshome&show_icons=true&hide=stars&count_private=true&theme=github_dark" alt="subhamshome" /> </p>  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhamshome&theme=dark&mode=weekly)](https://git.io/streak-stats)
 <!---
 subhamshome/subhamshome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
